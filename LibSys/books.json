@@ -1,0 +1,12 @@
+{
+    "Titanic": {
+        "title": "Titanic",
+        "author": "Angen",
+        "status": "Available"
+    },
+    "The Virgin": {
+        "title": "The Virgin",
+        "author": "Yesha M",
+        "status": "Borrowed"
+    }
+}
